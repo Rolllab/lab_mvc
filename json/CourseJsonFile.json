@@ -1,0 +1,18 @@
+[
+    {
+        "course": "HTML",
+        "date": "Feb 01"
+    },
+    {
+        "course": "CSS",
+        "date": "Aug 14"
+    },
+    {
+        "course": "JS",
+        "date": "May 10"
+    },
+    {
+        "course": "Python",
+        "date": "Nov 21"
+    }
+]
